@@ -1,0 +1,10 @@
+.cards{
+    justify-content: space-evenly;
+    /* background-color: black; */
+    height: 900px;
+    align-items: center;
+    /* justify-content: center; */
+}
+.hero{
+    height: 700px;
+}
